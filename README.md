@@ -1,7 +1,7 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
+**Nama Mahasiswa**: I Putu Arya Prawira Wiwekananda
+**NRP**: 5025211065 
 **Judul TA**: [Judul Tugas Akhir]  
 **Dosen Pembimbing**: [Nama Dosen]  
 **Dosen Ko-pembimbing**: [Nama Dosen]
